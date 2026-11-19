@@ -150,6 +150,10 @@ Launch the analysis notebook:
 jupyter notebook notebooks/analysis.ipynb
 ```
 
+## How it was built
+
+Designed and specified by me (Ahmed Reza). Much of the code was written with AI coding assistants, then reviewed, run and tested by me.
+
 ## Limitations
 
 This is a small experimental prototype rather than a production simulation.
